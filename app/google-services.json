@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "309521280750",
+    "project_id": "bdinvetarioproyecto",
+    "storage_bucket": "bdinvetarioproyecto.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:309521280750:android:1a95350f2274072dfecdff",
+        "android_client_info": {
+          "package_name": "com.example.sistemainventario"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "309521280750-k3uf673hnfgnlnrv703vsutlnfuu7nj0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3BSxo0Rck4fBUjuwq6jYisHK_vyCE4Kc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "309521280750-k3uf673hnfgnlnrv703vsutlnfuu7nj0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
